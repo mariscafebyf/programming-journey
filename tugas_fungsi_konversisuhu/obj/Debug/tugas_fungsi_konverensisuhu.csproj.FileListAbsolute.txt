@@ -1,0 +1,2 @@
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_konverensisuhu\obj\Debug\tugas_fungsi_konverensisuhu.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_konverensisuhu\obj\Debug\tugas_fungsi_konverensisuhu.csproj.CoreCompileInputs.cache

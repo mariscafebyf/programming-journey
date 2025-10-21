@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas_fungsi_rata rata", "tugas_fungsi_rata rata.csproj", "{B4209449-61DB-476E-9BE7-67617EB85A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4209449-61DB-476E-9BE7-67617EB85A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4209449-61DB-476E-9BE7-67617EB85A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4209449-61DB-476E-9BE7-67617EB85A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4209449-61DB-476E-9BE7-67617EB85A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969B4690-EC91-4DF8-B7C0-B9FA35DC02F1}
+	EndGlobalSection
+EndGlobal

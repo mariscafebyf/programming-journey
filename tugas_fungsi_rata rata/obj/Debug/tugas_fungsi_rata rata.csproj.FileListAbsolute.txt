@@ -1,0 +1,7 @@
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\bin\Debug\tugas_fungsi_rata rata.exe.config
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\bin\Debug\tugas_fungsi_rata rata.exe
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\bin\Debug\tugas_fungsi_rata rata.pdb
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\obj\Debug\tugas_fungsi_rata rata.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\obj\Debug\tugas_fungsi_rata rata.csproj.CoreCompileInputs.cache
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\obj\Debug\tugas_fungsi_rata rata.exe
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_rata rata\obj\Debug\tugas_fungsi_rata rata.pdb
