@@ -1,0 +1,7 @@
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\bin\Debug\Praktik_7.3_fungsi.exe.config
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\bin\Debug\Praktik_7.3_fungsi.exe
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\bin\Debug\Praktik_7.3_fungsi.pdb
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\obj\Debug\Praktik_7.3_fungsi.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\obj\Debug\Praktik_7.3_fungsi.csproj.CoreCompileInputs.cache
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\obj\Debug\Praktik_7.3_fungsi.exe
+C:\MARISCA FEBY FELICIA X PPLG2\Praktik_7.3_fungsi\obj\Debug\Praktik_7.3_fungsi.pdb
