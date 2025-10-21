@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUGAS FOR 1_MARISCA XPPLG 2", "TUGAS FOR 1_MARISCA XPPLG 2.csproj", "{DC49AF54-9ED2-4764-BE0A-3D127EFCBDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC49AF54-9ED2-4764-BE0A-3D127EFCBDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC49AF54-9ED2-4764-BE0A-3D127EFCBDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC49AF54-9ED2-4764-BE0A-3D127EFCBDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC49AF54-9ED2-4764-BE0A-3D127EFCBDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD70ACAB-B747-4113-BC77-F1E12022D639}
+	EndGlobalSection
+EndGlobal
