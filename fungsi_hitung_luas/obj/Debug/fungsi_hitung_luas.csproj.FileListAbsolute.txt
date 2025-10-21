@@ -1,0 +1,7 @@
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.exe.config
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.exe
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\bin\Debug\fungsi_hitung_luas.pdb
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.csproj.CoreCompileInputs.cache
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.exe
+C:\MARISCA FEBY FELICIA X PPLG2\fungsi_hitung_luas\obj\Debug\fungsi_hitung_luas.pdb
