@@ -1,0 +1,7 @@
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\bin\Debug\tugas_fungsi_kali.exe.config
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\bin\Debug\tugas_fungsi_kali.exe
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\bin\Debug\tugas_fungsi_kali.pdb
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\obj\Debug\tugas_fungsi_kali.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\obj\Debug\tugas_fungsi_kali.csproj.CoreCompileInputs.cache
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\obj\Debug\tugas_fungsi_kali.exe
+C:\MARISCA FEBY FELICIA X PPLG2\tugas_fungsi_kali\obj\Debug\tugas_fungsi_kali.pdb
