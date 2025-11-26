@@ -21,7 +21,7 @@ namespace PROYEK_AKHIR_MARISCA_XPPLG2
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
-        {
+        `   
 
         }
 
@@ -62,20 +62,7 @@ namespace PROYEK_AKHIR_MARISCA_XPPLG2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Menghitung kembalian
-            if (!string.IsNullOrEmpty(tbBayar.Text))
-            {
-                if (Convert.ToDouble(tbBayar.Text) < Convert.ToDouble(tbTotal.Text))
-                {
-                    MessageBox.Show("uangnya kurang ya ga boleh ngutang");
-                    return;
-                }
-
-                double kembalian = double.Parse(tbBayar.Text) - double.Parse(tbTotal.Text);
-                txtKembalian.Text = $"{kembalian}";
-            }
-        }
-
+            
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
