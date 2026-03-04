@@ -1,0 +1,38 @@
+/* Mengatur ulang margin dan padding default */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style untuk navigasi */
+nav {
+    background-color: #333333; /* Warna latar belakang navigasi */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;       /* Hilangkan bullet list */
+    text-align: center;     /* Opsional: menu di tengah */
+}
+
+nav li {
+    display: inline-block;   /* Membuat menu horizontal */
+    background-color: #af4c89; /* Warna background setiap menu */
+    margin: 0 5px;           /* Jarak antar menu */
+    border-radius: 5px;      /* Opsional: sudut melengkung */
+    transition: background-color 0.3s ease;
+}
+
+nav li a {
+    display: block;          /* Membuat seluruh area link dapat diklik */
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Efek hover */
+nav li:hover {
+    background-color: #45a0a0;
+}
