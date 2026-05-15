@@ -1,0 +1,7 @@
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\bin\Debug\Latihan Operator_marisca_xpplg2.exe.config
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\bin\Debug\Latihan Operator_marisca_xpplg2.exe
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\bin\Debug\Latihan Operator_marisca_xpplg2.pdb
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\obj\Debug\Latihan Operator_marisca_xpplg2.csproj.AssemblyReference.cache
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\obj\Debug\Latihan Operator_marisca_xpplg2.csproj.CoreCompileInputs.cache
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\obj\Debug\Latihan Operator_marisca_xpplg2.exe
+C:\MARISCA FEBY FELICIA X PPLG2\Latihan Operator_marisca_xpplg2\Latihan Operator_marisca_xpplg2\obj\Debug\Latihan Operator_marisca_xpplg2.pdb
